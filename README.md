@@ -2,6 +2,7 @@
 ![Website](https://img.shields.io/website?label=blog&url=https%3A%2F%2Fandromedarabbit.net)
 ![Keybase PGP](https://img.shields.io/keybase/pgp/jaehoonchoi)
 [![Twitter Badge](https://img.shields.io/badge/-@andromedarabbit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/andromedarabbit) [![Linkedin Badge](https://img.shields.io/badge/-choijaehoon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/choijaehoon/)](https://www.linkedin.com/in/tanejasaksham/)
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.buymeacoffee.com/jaehoonchoi)
 [![GitHub followers](https://img.shields.io/github/followers/andromedarabbit?label=Follow&style=social)](https://github.com/andromedarabbit/?tab=follow)
 ---
 
