@@ -8,6 +8,10 @@
 
 ### Hi there 👋
 
+- 📫 How to reach me: visit [my blog](https://Fandromedarabbit.net) and [calendly](calendly.com/jaehoonchoi)
+
+![Jaehoon's github stats](https://github-readme-stats.vercel.app/api?username=andromedarabbit&show_icons=true)
+
 <!--
 **andromedarabbit/andromedarabbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
