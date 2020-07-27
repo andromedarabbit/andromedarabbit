@@ -1,3 +1,8 @@
+# Jaehoon Choi 👨‍💻
+[![Twitter Badge](https://img.shields.io/badge/-@andromedarabbit-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://twitter.com/andromedarabbit) [![Linkedin Badge](https://img.shields.io/badge/-choijaehoon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/choijaehoon/)](https://www.linkedin.com/in/tanejasaksham/)
+[![GitHub followers](https://img.shields.io/github/followers/andromedarabbit?label=Follow&style=social)](https://github.com/andromedarabbit/?tab=follow)
+---
+
 ### Hi there 👋
 
 <!--
